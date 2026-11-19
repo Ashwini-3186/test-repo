@@ -13,6 +13,6 @@ app.get("/user", async (req, res) => {
 //2.Review ready, posting comment... Comment posted!
 app.post("/login", (req, res) => {
   const password = "admin123";
-  if (req.body.pass == passwords) res.send("ok");
+  if (req.body.pass == password) res.send("ok");
 });
 
