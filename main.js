@@ -8,7 +8,5 @@ function login(user, pass) {
     return true;
   }
 }
-//test2
-//test3
-//test 4
+
 
