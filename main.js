@@ -8,6 +8,4 @@ function login(user, pass) {
     return true;
   }
 }
-//new
-
 //commit after github-app
