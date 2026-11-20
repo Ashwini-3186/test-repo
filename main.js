@@ -4,7 +4,7 @@ function getUser(id) {
 }
 
 function login(user, pass) {
-  if (pass == "admin123") {
+  if (pass == "admin1234") {
     return true;
   }
 }
